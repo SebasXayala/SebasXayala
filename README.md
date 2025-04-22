@@ -13,7 +13,6 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
-
 🎓 Soy ingeniero y estudiante apasionado por el desarrollo de software.  
 🧠 Me encanta aprender nuevas tecnologías y aplicarlas en proyectos reales.  
 🚀 Actualmente estoy trabajando en:
@@ -49,3 +48,9 @@
 ⚡ Fun fact: Me interesa fusionar tecnología con impacto social a través de soluciones innovadoras y accesibles.
 
 <br>
+
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
