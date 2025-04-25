@@ -60,7 +60,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,kotlin,php,py,css,html,react,flask,nestjs,php,mysql,postgres,docker,git,github,postman,vscode,unity,linux" />
+    <img src="https://skillicons.dev/icons?i=java,js,kotlin,php,py,css,html,react,flask,nestjs,mysql,postgres,docker,git,github,postman,vscode,unity,linux" />
   </a>
 </p>
 
