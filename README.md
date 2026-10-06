@@ -1,89 +1,52 @@
-<!--h1 without bottom border-->
-<h1 align="center">Hi , I'm Sebastian Ayala <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# Juan Sebastián Ayala Mahecha
 
-<p align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=07F736&background=FFFFFF00&center=true&width=435&lines=Software+Engineer;DevOps;Backend+Developer" alt="Typing SVG" /></a>
-</p>
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
+**Desarrollador Backend** · Node.js · NestJS · TypeScript · PostgreSQL · AWS
 
+Armenia, Colombia · Disponible para remoto e híbrido
 
-<br>
-	
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+[LinkedIn](https://www.linkedin.com/in/juan-sebastian-ayala-mahecha-8a376520b/) · [Email](mailto:juansebastianayala48@gmail.com)
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+---
 
-<br><br>
-🎓 Soy ingeniero y estudiante apasionado por el desarrollo de software.  
-🧠 Me encanta aprender nuevas tecnologías y aplicarlas en proyectos reales.  
-🚀 Actualmente estoy trabajando en:
-- 🧾 Backend de una plataforma para agilizar la selección de personal y la digitalización de documentos laborales.
-- 📍 Aplicativo full stack para la gestión de rutas y tareas de mercaderistas en puntos de venta, incluyendo recolección de precios de productos propios y de la competencia para análisis de estadísticas de negocio.
-- 🛠️ Desarrollo backend de un sistema de gestión de órdenes de trabajo (OT) para mejorar la asignación y seguimiento de tareas operativas.
+## Sobre mí
 
+Desarrollador backend con más de un año de experiencia construyendo y desplegando aplicaciones web en producción con TypeScript, NestJS, Flask y PostgreSQL. Me interesa crecer hacia infraestructura y cloud en AWS, donde ya he desplegado servicios en AWS Lambda con imágenes Docker.
 
-💻 Tecnologías que uso frecuentemente:
+Estudiante de último semestre de Ingeniería de Software y Tecnología en Desarrollo de Software en la Institución Universitaria EAM (grado: mayo 2027).
 
-- 🧠 Backend:  
-  - Python (FastAPI, Flask)  
-  - PHP  
-  - TypeScript con NestJS
-    
-- 🎨 Frontend:  
-  - React  
-  - HTML, CSS, JavaScript
-    
-- 🛢️ Base de datos:  
-  - PostgreSQL
-    
-- ⚙️ DevOps y otros:  
-  - Docker, GitHub Actions  
-  - OAuth2 con Azure AD  
+## Experiencia
 
+**Desarrollador Backend (Práctica profesional) — Café Quindío** · Mar 2025 – Sep 2025
 
-📫 Puedes contactarme o ver más de mi trabajo aquí:
-- LinkedIn: [https://www.linkedin.com/in/juan-sebastian-ayala-mahecha-8a376520b/]
-- Portafolio: []
-- Email: [juansebastianayala48@gmail.com]
+- Backend principal de una aplicación de selección de personal: modelo de datos en PostgreSQL, API REST en NestJS y gestión de documentos en Amazon S3.
+- Despliegue del backend en AWS Lambda como imagen Docker, automatizado con Serverless Framework.
+- Permisos por roles (RBAC), exportación de datos y soporte en producción para un sistema de punto de venta en Flask.
 
-⚡ Fun fact: Me interesa fusionar tecnología con impacto social a través de soluciones innovadoras y accesibles.
+**Desarrollador Full-Stack Freelance — Fundecompe** · Jun 2024 – Dic 2024
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
+- Plataforma web para emprendedores del Quindío, desarrollada y desplegada de forma independiente con PHP y PostgreSQL.
 
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,kotlin,php,py,css,html,react,flask,nestjs,mysql,postgres,docker,git,github,postman,vscode,unity,linux" />
-  </a>
+## Proyectos destacados
+
+| Proyecto | Descripción | Stack |
+| --- | --- | --- |
+| Aplicativo de Gestión Humana | Backend de una aplicación para gestionar el proceso de selección de candidatos: API REST con vacantes, candidatos, etapas del proceso y autenticación, carga de hojas de vida y documentos en S3, desplegado en AWS Lambda como imagen Docker con Serverless Framework. | NestJS · TypeScript · PostgreSQL · AWS Lambda · Docker · S3 |
+
+## Tecnologías
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,py,flask,java,postgres,aws,docker,linux,react,nextjs,git,github" />
 </p>
 
-<br>
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=SebasXayala&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
-</td>
+## Certificaciones
 
-<td width="50%" align="center">
+- Scrum Foundation Professional Certification (SFPC) — CertiProf
+- MET – Michigan English Test, nivel B1 — Michigan Language Assessment
+- Curso Profesional de Git y GitHub · Introducción a la Terminal — [Platzi](https://platzi.com/@juansebastianayala/)
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SebasXayala&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
+---
 
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-----------------------------------------------------------------------
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=SebasXayala&show_icons=true&count_private=true&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebasXayala&layout=compact&langs_count=6&hide_border=true" height="160" />
+</p>
